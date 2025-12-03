@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Prototype",
+  "base_artist": "石川智晶",
+  "createdAt": "2025-12-03T14:13:17.869874Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Prototype",
+      "artist": "OutKast",
+      "has_synced": true,
+      "path": "select/01_Prototype_OutKast.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Prototype",
+      "artist": "Sepiamusic",
+      "has_synced": false,
+      "path": "select/02_Prototype_Sepiamusic.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Prototype",
+      "artist": "Sepiamusic",
+      "has_synced": true,
+      "path": "select/03_Prototype_Sepiamusic.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Crawlersout (prototype)",
+      "artist": "Purity Ring",
+      "has_synced": false,
+      "path": "select/04_Crawlersout_(prototype)_Purity_Ring.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Prototype",
+      "artist": "Martyr",
+      "has_synced": false,
+      "path": "select/05_Prototype_Martyr.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Prototype",
+      "artist": "André 3000",
+      "has_synced": false,
+      "path": "select/06_Prototype_André_3000.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ghost Prototype I - Measurement of Thought",
+      "artist": "Scar Symmetry",
+      "has_synced": false,
+      "path": "select/07_Ghost_Prototype_I_-_Measurement_of_Thought_Scar_Symmetry.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ghost Prototype II - Deus Ex Machina",
+      "artist": "Scar Symmetry",
+      "has_synced": true,
+      "path": "select/08_Ghost_Prototype_II_-_Deus_Ex_Machina_Scar_Symmetry.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Media Prototype (Text\" 888 \"For reinabe)",
+      "artist": "DV-i",
+      "has_synced": true,
+      "path": "select/09_Media_Prototype_(Text__888__For_reinabe)_DV-i.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Prototype Vip",
+      "artist": "GLAZE feat. WoodenToaster",
+      "has_synced": false,
+      "path": "select/10_Prototype_Vip_GLAZE_feat._WoodenToaster.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Prototype VIP",
+      "artist": "GLAZE/WoodenToaster",
+      "has_synced": false,
+      "path": "select/11_Prototype_VIP_GLAZE_WoodenToaster.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Prototype",
+      "artist": "Whitehorse",
+      "has_synced": false,
+      "path": "select/12_Prototype_Whitehorse.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Prototype",
+      "artist": "Unprocessed",
+      "has_synced": true,
+      "path": "select/13_Prototype_Unprocessed.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Prototype",
+      "artist": "Dello",
+      "has_synced": true,
+      "path": "select/14_Prototype_Dello.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Prototype",
+      "artist": "Front Line Assembly",
+      "has_synced": false,
+      "path": "select/15_Prototype_Front_Line_Assembly.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Failed States - Experimental Prototype",
+      "artist": "Propagandhi",
+      "has_synced": true,
+      "path": "select/16_Failed_States_-_Experimental_Prototype_Propagandhi.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Failed States (experimental prototype)",
+      "artist": "Propagandhi",
+      "has_synced": true,
+      "path": "select/17_Failed_States_(experimental_prototype)_Propagandhi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Prototype",
+      "artist": "石川 智晶",
+      "has_synced": false,
+      "path": "select/pl_01_Prototype_石川_智晶.txt"
+    }
+  ]
+}
